@@ -1,0 +1,24 @@
+brand_voice: "Engaging, informative, and conversational tone with a focus on storytelling"
+posting_schedules:
+  tiktok:
+    monday: "09:00"
+    tuesday: "14:00"
+    wednesday: "11:00"
+    thursday: "16:00"
+    friday: "10:00"
+  reels:
+    monday: "10:00"
+    tuesday: "15:00"
+    wednesday: "12:00"
+    thursday: "17:00"
+    friday: "11:00"
+  shorts:
+    monday: "08:00"
+    tuesday: "13:00"
+    wednesday: "09:00"
+    thursday: "14:00"
+    friday: "07:00"
+platform_tokens:
+  tiktok: "tiktok_api_token"
+  reels: "reels_api_token"
+  shorts: "shorts_api_token"
